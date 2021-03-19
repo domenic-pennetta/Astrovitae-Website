@@ -240,6 +240,7 @@ h3 {
 }
 
 p {
+    font-size: 19px;
     margin-bottom: 24px;
     line-height: 35px;
 }
@@ -552,7 +553,7 @@ MOBILE FORMAT BELOW
     }
 
     p {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     p a {
