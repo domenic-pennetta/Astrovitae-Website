@@ -40,12 +40,12 @@ Logo
 .logomark a {
     text-decoration: none;
     font-family: cavier-bold;
-    font-size: 30px;
+    font-size: 32px;
     letter-spacing: 6px;
     color: #fff;
     background-color: rgb(204, 51, 51);
     width: 100%;
-    margin: 0 12%;
+    margin: 0 18%;
 }
 
 .logomark a:hover {
@@ -72,7 +72,7 @@ nav {
 }
 
 ul {
-    margin: 0 12%;
+    margin: 0 18%;
     padding: 8px 0;
     list-style: none;
     font-size: 16px;
@@ -115,24 +115,20 @@ Footer
 }
 
 .website-map {
-    margin: 32px 12%;
+    margin: 20px 18% 40px 18%;
 }
 
 footer a {
     display: inline-block;
     list-style: none;
-    font-size: 17px;
+    font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     text-align: left;
     text-decoration: none;
-    color:#fff;
-    background-color: rgb(204, 51, 51);
-    padding: 4px 15px;
+    color:rgb(204, 51, 51);
     width: fit-content;
-    border-radius: 7px;
-    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
-    margin: 4px 15px 4px 0px;
+    margin-right: 25px;
 }
 
 footer a:hover {
@@ -141,14 +137,18 @@ footer a:hover {
 }
 
 .copyright {
-    margin-left: 12%;
+    margin-left: 18%;
     padding: 40px 0 20px 0;
     background-color:rgb(204, 51, 51);;
     text-align: left;
     color:#fff;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 1px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.copyright p {
+    font-size: 16px;
 }
 
 /*
@@ -158,7 +158,7 @@ Body
 */
 
 body {
-    margin: 0 14%;
+    margin: 0 15%;
     background-image: url(../img/backgrounds/background_01.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@ body {
 }
 
 .body-wrap {
-    margin: 5% 12%;
+    margin: 5% 18%;
     font-size: 2 0px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
@@ -222,7 +222,7 @@ img {
 
 h1 {
     font-size: 26px;
-    margin: 18px 0 8px 0;
+    margin: 22px 0 18px 0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -238,8 +238,8 @@ h2 {
 }
 
 h3 {
-    margin-top: -35px;
-    margin-left: 12%;
+    margin-top: -38px;
+    margin-left: 18%;
     font-size: 20px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -273,7 +273,7 @@ p a:hover {
 }
 
 .link-button {
-    margin-top: 15px;
+    margin: 25px 0px;
     padding: 8px 16px;
     width: fit-content;
     border-radius: 7px;
