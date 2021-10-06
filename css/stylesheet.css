@@ -397,7 +397,7 @@ MOBILE FORMAT BELOW
     */
     
     footer {
-        margin: 20px 0;
+        margin: 0px 0;
     }
 
     .website-map {
@@ -419,12 +419,12 @@ MOBILE FORMAT BELOW
     }
     
     .copyright {
-        padding: 40px 25px;
+        padding: 40px 25px 60px 25px;
         background-color:rgb(204, 51, 51);
         text-align: left;
         height: 32px;
         color:#fff;
-        line-height: 16px;
+        line-height: 15px;
         letter-spacing: 1px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
