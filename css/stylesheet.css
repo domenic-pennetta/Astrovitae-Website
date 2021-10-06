@@ -407,13 +407,12 @@ MOBILE FORMAT BELOW
     footer a {
         display: block;
         list-style: none;
-        font-size: 15px;
+        font-size: 18px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: left;
         text-decoration: none;
-        color:#fff;
-        background-color: rgb(204, 51, 51);
-        padding: 3px 12px;
+        color: rgb(204, 51, 51);
+        padding: 6px 12px;
         width: fit-content;
         margin: 5px 10px 5px 0px;
     }
