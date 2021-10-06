@@ -406,13 +406,14 @@ MOBILE FORMAT BELOW
 
     footer a {
         display: block;
+        font-weight: bold;
         list-style: none;
         font-size: 18px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: left;
         text-decoration: none;
         color: rgb(204, 51, 51);
-        padding: 6px 12px;
+        padding: 3px 12px;
         width: fit-content;
         margin: 5px 10px 5px 0px;
     }
